@@ -1,0 +1,17 @@
+header{font-family: "Apple Braille";
+  font-size: 40px;
+}
+body {
+  border: 45px solid black;
+  background-color: darkcyan;
+}
+mainname{
+ background-blend-mode: color;
+}
+button:hover {
+    background-color: #4CAF50; /* Green */
+    color: Black;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
